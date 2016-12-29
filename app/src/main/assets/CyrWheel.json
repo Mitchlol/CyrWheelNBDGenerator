@@ -1,0 +1,80 @@
+{
+  "categories": [
+    {
+      "name" : "Motion",
+      "variants" : [
+        {
+          "name" : "Waltz"
+        },
+        {
+          "name" : "Cartwheel"
+        },
+        {
+          "name" : "Inverted Cartwheel"
+        },
+        {
+          "name" : "Coin"
+        },
+        {
+          "name" : "Back Coin"
+        },
+        {
+          "name" : "Rocking"
+        },
+        {
+          "name" : "Front Handspring"
+        },
+        {
+          "name" : "Back Handspring"
+        },
+        {
+          "name" : "Leading Turn"
+        },
+        {
+          "name" : "Trailing Turn"
+        },
+        {
+          "name" : "Leading Twist"
+        },
+        {
+          "name" : "Trailing Twist"
+        }
+      ]
+    },
+    {
+      "name" : "Body position",
+      "variants" : [
+        {
+          "name" : ""
+        },
+        {
+          "name" : "Body in front"
+        },
+        {
+          "name" : "Inward Grip"
+        },
+        {
+          "name" : "Outward Grip"
+        }
+      ]
+    },
+    {
+      "name" : "Limbs",
+      "variants" : [
+        {
+          "name" : "One Arm"
+        },
+        {
+          "name" : "One Foot"
+        },
+        {
+          "name" : "Hanging"
+        },
+        {
+          "name" : "Flag"
+        }
+      ]
+    }
+  ]
+
+}
